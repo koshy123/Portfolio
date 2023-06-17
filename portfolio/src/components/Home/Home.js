@@ -6,7 +6,11 @@ function Home() {
         <div className='container'>
             <div className='content'>
                 <div className='hero-main'>
-
+                <div className='hero-text'>
+                    <h3>Full-Stack Developer</h3>
+                    <img></img>
+                    <p></p>
+                </div>
                 </div>
             </div>
         </div>
