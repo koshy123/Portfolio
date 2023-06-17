@@ -2,7 +2,15 @@ import React from 'react'
 import "Home.css"
 function Home() {
   return (
-    <div>Home</div>
+    <section class='hero' id="home">
+        <div className='container'>
+            <div className='content'>
+                <div className='hero-main'>
+
+                </div>
+            </div>
+        </div>
+    </section>
   )
 }
 
