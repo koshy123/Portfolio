@@ -57,11 +57,11 @@ nav ul a {
   }
   
   .mobile-nav span:first-child::before {
-    content: '\f00d'; /* fa-times icon */
+    content: '\f00d'; 
   }
   
   .mobile-nav span:last-child::before {
-    content: '\f0c9'; /* fa-bars icon */
+    content: '\f0c9'; 
   }
 }
 
@@ -79,11 +79,11 @@ nav ul a {
   }
   
   .open-menu .mobile-menu::before {
-    content: '\f00d'; /* fa-times icon */
+    content: '\f00d'; 
   }
   
   .closed-menu .mobile-menu::before {
-    content: '\f0c9'; /* fa-bars icon */
+    content: '\f0c9';
   }
   
   .mobile-nav ul {
@@ -109,9 +109,9 @@ nav ul a {
   }
   
   .open-menu .mobile-menu:before {
-    content: '\f00d'; /* fa-times icon */
+    content: '\f00d';
   }
   
   .closed-menu .mobile-menu:before {
-    content: '\f0c9'; /* fa-bars icon */
+    content: '\f0c9'; 
   }
