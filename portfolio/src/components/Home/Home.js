@@ -10,6 +10,9 @@ function Home() {
                     <h3>Full-Stack Developer</h3>
                     <img></img>
                     <p></p>
+                    <span>
+                        
+                    </span>
                 </div>
                 </div>
             </div>
@@ -18,4 +21,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Home;
