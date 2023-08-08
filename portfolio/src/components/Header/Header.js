@@ -6,7 +6,7 @@ function Header() {
     
     <div>
       
-      <img src={profile} ></img>
+      <img className='header_pic' src={profile} ></img>
     </div>
   )
 }
