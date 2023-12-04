@@ -1,4 +1,6 @@
-.header_pic{
-    size: 10px;
-    display: flex;
-}
+.header_pic {
+    width: 20vw; /* Set the width to 20% of the viewport width */
+    height: 20vw; /* Set the height to maintain a square aspect ratio */
+    border-radius: 50%; /* Make it a circle using border-radius */
+    object-fit: cover; /* Ensure the image covers the entire container */
+  }
